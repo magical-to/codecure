@@ -221,4 +221,6 @@ filescan.log에서 검색을 해보니 partial로 나뉘어진 zip파일과 xls 
 - memdump -> strings<br>
     payload(BASE64)<br>
 - 네트워크 -> LDAP.<br>
-정도가 있겠다.<br>
+정도가 있겠다.<br><br><br>
+
+궁금한 점이나 이해 안 가는 부분 있으면 연락 주시면 감사하겠습니다. ._.
